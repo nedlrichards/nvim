@@ -1,2 +1,2 @@
 require("nedlrichards")
-print("hello")
+require("config.lazy")
